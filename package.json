@@ -3,3 +3,13 @@
     "yarn": "^1.22.22"
   }
 }
+{
+  "name": "test app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    // Your project dependencies
+  }
+}
