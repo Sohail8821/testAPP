@@ -33,4 +33,4 @@ jobs:
         image: sohail8821/testapp
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}.
+        password: ${{ secrets.DOCKER_PASSWORD }}
